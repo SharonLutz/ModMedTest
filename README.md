@@ -21,7 +21,8 @@ Y = rnorm(n,mean=(X*0.5+Me*0.5))
 Cov<-(cbind(rnorm(n),rnorm(n),rnorm(n)))
 Cov <- as.matrix(Cov)
 
-ModMedTest(X=X, Mo=Mo, Me=Me, MeCont=TRUE, Ycont=TRUE, Y = Y,Cov=Cov, seedset=1, nBoot=200)
+ModMedTest(X=X, Mo=Mo, Me=Me, MeCont=TRUE, Ycont=TRUE, 
+Y = Y,Cov=Cov, seedset=1, nBoot=200)
 ```
 
 ## Moderated Mediation Resources
