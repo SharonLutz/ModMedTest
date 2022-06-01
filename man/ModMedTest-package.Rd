@@ -1,6 +1,5 @@
 \name{ModMedTest-package}
 \alias{ModMedTest-package}
-\alias{ModMedTest}
 \docType{package}
 \title{
 \packageTitle{ModMedTest}
