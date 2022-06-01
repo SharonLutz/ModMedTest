@@ -1,9 +1,0 @@
-Package: ModMedTest
-Type: Package
-Title: This package runs mediation, mediation stratified by binary moderator, and moderated mediation. 
-Version: 1.0
-Date: 2022-05-31
-Author: Sharon Lutz, Kirsten Voorhies
-Maintainer: Sharon Lutz <smlutz@hsph.harvard.edu>
-Description: This package runs mediation, mediation stratified by binary moderator, and moderated mediation. 
-License: GPL-2
