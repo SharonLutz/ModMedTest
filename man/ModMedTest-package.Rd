@@ -1,0 +1,10 @@
+\name{ModMedTest-package}
+\alias{ModMedTest-package}
+\alias{ModMedTest-pkg}
+\docType{package}
+\title{
+\packageTitle{ModMedTest}
+}
+\description{
+\packageDescription{ModMedTest}
+}
