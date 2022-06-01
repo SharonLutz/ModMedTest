@@ -26,10 +26,10 @@ Y = Y,Cov=Cov, seedset=1, nBoot=200)
 ```
 
 ## Moderated Mediation Resources
-Consider the following:
+Consider the following tutorials:
 
-Mediation [tutorial](https://data.library.virginia.edu/introduction-to-mediation-analysis/)
+Mediation analysis [tutorial](https://data.library.virginia.edu/introduction-to-mediation-analysis/)
 
-Moderated mediation [tutorial](https://data.library.virginia.edu/getting-started-with-moderated-mediation/)
+Moderated mediation analysis [tutorial](https://data.library.virginia.edu/getting-started-with-moderated-mediation/)
 
-Moderated mediation [tutorial](https://ademos.people.uic.edu/Chapter15.html) with sem
+Moderated mediation analysis [tutorial](https://ademos.people.uic.edu/Chapter15.html) with sem
