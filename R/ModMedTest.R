@@ -1,5 +1,6 @@
 ModMedTest <-
 function(X,Y, Me, Mo, Cov, Ycont, MeCont, seedset=1, nBoot=200){
+  options(warn=-1)
   
   # load library
   library(mediation)
