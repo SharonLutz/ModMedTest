@@ -11,6 +11,8 @@ devtools::install_github("SharonLutz/ModMedTest")
 
 ## Example
 ```
+library(ModMedTest)
+
 n<-1000
 X=rbinom(n,2,0.5)
 Mo<-rbinom(n,1,0.5)
