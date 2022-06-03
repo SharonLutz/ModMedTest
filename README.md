@@ -1,5 +1,5 @@
 # ModMedTest
-R package to run moderated mediation analysis using the mediation R package. For a binary moderator, this package runs the mediation analysis for 3 groups: all, moderator==0, and moderator==1. In addition, the test of the moderated direct and indirect effects are performed.  
+R package to run moderated mediation analysis using the mediation R package. For a binary moderator, this package runs the mediation analysis for 3 groups: all, moderator==0, and moderator==1. In addition, the test of the moderated direct and indirect effects are performed. Note: mediation analysis makes several assumptions including: no unmeasured confounding, no measurement error, and the arrows in the DAG are correctly specified.
 
 ## Installation
 ```
